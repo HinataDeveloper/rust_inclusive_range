@@ -1,0 +1,5 @@
+Friedrich Nietzsche
+Philosopher and writer
+
+static function
+static COUNTER: AtomicUsize = AtomicUsize::new(0); // interior mutability
